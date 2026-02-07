@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SARTHAK PEDNEKAR</h1>
 <h3 align="center">A passionate Coder.</h3>
 
-- 🌱 I’m currently learning **React , springboot ,**
+- 🌱 I’m currently learning **React , springboot **
 
 - 💬 Ask me about **React, SQL , JAVA , Spring Boot.**
 
